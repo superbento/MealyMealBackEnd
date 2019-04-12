@@ -1,0 +1,5 @@
+DELETE FROM `compose` ;
+DELETE FROM `contain` ;
+DELETE FROM `dailyMenu` ;
+DELETE FROM `meal` ;
+DELETE FROM `module` ;
